@@ -1,0 +1,5 @@
+node_modules/
+deployment/
+*.mpr.bak
+*.mpr.lock
+.mendix-cache/
